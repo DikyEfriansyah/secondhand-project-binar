@@ -1,0 +1,89 @@
+.navbar {
+  padding: 25px 0;
+  background: #ffffff !important;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+}
+
+.btn {
+  background-color: #7126b5 !important;
+  border-color: #7126b5 !important;
+  color: white !important;
+}
+
+.btn:hover {
+  background-color: #480f7e !important;
+}
+
+.outlineBtn {
+  background-color: #fff !important;
+  border-color: #7126b5 !important;
+  color: black !important;
+}
+
+.outlineBtn:hover {
+  background-color: #480f7e !important;
+  color: white !important;
+}
+
+.outlineBtnV2 {
+  background-color: #e2d4f0 !important;
+  border: 0 !important;
+  color: black !important;
+}
+
+.outlineBtnV2:hover {
+  background-color: #480f7e !important;
+  color: white !important;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+.list-group-item {
+  color: black !important;
+  background-color: white !important;
+  border-color: #d0d0d0 !important;
+  text-decoration: none !important;
+  font-weight: 500 !important;
+}
+
+.list-group-item:hover {
+  background-color: white !important;
+  color: #7126b5 !important;
+}
+
+.list-group-item:active {
+  border: none !important;
+}
+
+.card a {
+  color: black !important;
+  text-decoration: none !important;
+}
+
+.card a:hover {
+  color: #7126b5 !important;
+}
+
+.card p {
+  margin: 0 !important;
+}
+
+.dropdown-menu {
+  width: 300px !important;
+  right: 0 !important;
+  left: auto !important;
+}
+
+.dropdown-menu a:active {
+  background-color: white !important;
+}
+
+.dropdown-link {
+  background: none !important;
+}
+
+p {
+  margin: 0 !important;
+}
